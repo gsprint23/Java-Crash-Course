@@ -1,0 +1,11 @@
+This is my first line in my output file
+5
+4
+5
+1
+5
+3
+2
+5
+1
+2
